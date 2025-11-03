@@ -1,0 +1,21 @@
+{
+  "name": "notion-workspace-migration",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "explore": "node scripts/explore_workspace.js",
+    "extract": "node scripts/extract_full_content.js",
+    "transform": "node scripts/transform_content.js",
+    "process-manual": "node scripts/process_manual_import.js",
+    "test-ai-extraction": "node scripts/test_ai_extraction.js",
+    "setup": "node scripts/setup_ca_v2.js",
+    "load": "node scripts/load_migrated_data.js",
+    "automate": "node service/automation.js once",
+    "automate:watch": "node service/automation.js loop 60000"
+  },
+  "dependencies": {
+    "@notionhq/client": "^2.2.15",
+    "dotenv": "^16.4.5",
+    "openai": "^6.7.0"
+  }
+}

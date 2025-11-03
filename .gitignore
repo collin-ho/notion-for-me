@@ -1,0 +1,6 @@
+node_modules/
+.env
+*.log
+.DS_Store
+ARCHIVE_251023/
+ARCHIVE_251024/

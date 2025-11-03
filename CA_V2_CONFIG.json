@@ -1,0 +1,19 @@
+{
+  "workspace": "CA-v2",
+  "parent_page_id": "2967a873-fa31-810d-b2a0-e5f94136dd4e",
+  "databases": {
+    "projects": {
+      "id": "2967a873-fa31-81d6-b9d4-fa785e3d064c",
+      "url": "https://www.notion.so/2967a873fa3181d6b9d4fa785e3d064c"
+    },
+    "meetings": {
+      "id": "2967a873-fa31-8136-8299-d13b5bd279b7",
+      "url": "https://www.notion.so/2967a873fa3181368299d13b5bd279b7"
+    },
+    "tasks": {
+      "id": "2967a873-fa31-8151-b5d1-ed6b944fcfff",
+      "url": "https://www.notion.so/2967a873fa318151b5d1ed6b944fcfff"
+    }
+  },
+  "created_at": "2025-10-24T01:24:36.000Z"
+}
