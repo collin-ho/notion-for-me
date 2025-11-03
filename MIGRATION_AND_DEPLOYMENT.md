@@ -127,8 +127,8 @@ nano .env
 
 **Add to .env:**
 ```
-NOTION_TOKEN=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
-OPENAI_API_KEY=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
+NOTION_TOKEN=your_notion_token_here
+OPENAI_API_KEY=your_openai_api_key_here
 OPENAI_MODEL=gpt-5-nano
 ```
 
